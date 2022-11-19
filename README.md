@@ -19,7 +19,7 @@ To run application, please follow steps:
  - http://localhost:4000/articles/flowers
  - http://localhost:4000/articles/3/summer?lang=en&title=y
 
-6. to view short documentation follow the link: http://localhost:4000/api-docs
+6. to view a short documentation follow the link: http://localhost:4000/api-docs
 
 
 Thank you for your attention and time.
