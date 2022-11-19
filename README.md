@@ -8,16 +8,16 @@ To run application, please follow steps:
 3. run npm install command
 4. run npm run start
 5. open link and set different filters based on following templates:
- http://localhost:4000/articles/:amount/:keyword
- http://localhost:4000/articles/:amount/?keyword=notepad
- http://localhost:4000/articles/keyword
- http://localhost:4000/articles/:amount/:keyword?lang=en&title=y
+ - http://localhost:4000/articles/:amount/:keyword
+ - http://localhost:4000/articles/:amount/?keyword=notepad
+ - http://localhost:4000/articles/keyword
+ - http://localhost:4000/articles/:amount/:keyword?lang=en&title=y
 
  and examples:
- http://localhost:4000/articles/2/notepad
- http://localhost:4000/articles/2/keyword=history
- http://localhost:4000/articles/flowers
- http://localhost:4000/articles/3/summer?lang=en&title=y
+ - http://localhost:4000/articles/2/notepad
+ - http://localhost:4000/articles/2/keyword=history
+ - http://localhost:4000/articles/flowers
+ - http://localhost:4000/articles/3/summer?lang=en&title=y
 
 6. to view short documentation follow the link: http://localhost:4000/api-docs
 
